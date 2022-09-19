@@ -11,5 +11,5 @@
     <br>
     <b>Installation</b><br>
     <br>
-    <code>pip3 install git+https://github.com/EntySec/Ghost</code>
+    <code>pip3 install git+https://github.com/Darksufer/Ghost</code>
 </p>
