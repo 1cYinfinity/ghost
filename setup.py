@@ -30,9 +30,9 @@ setup(name='ghost',
           'Ghost Framework is an Android post-exploitation framework that exploits the'
           ' Android Debug Bridge to remotely access an Android device.'
       ),
-      url='http://github.com/EntySec/Ghost',
-      author='EntySec',
-      author_email='entysec@gmail.com',
+      url='http://github.com/Darksufer/Ghost',
+      author='Darksufer','Entysec', 
+      author_email='darkdevilhacker0123@gmail.com','entysec@gmail.com',
       license='MIT',
       python_requires='>=3.7.0',
       packages=find_packages(),
